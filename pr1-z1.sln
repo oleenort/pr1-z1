@@ -3,7 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29709.97
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pr1-z1", "pr1-z1\pr1-z1.csproj", "{584B964A-8298-448A-A09E-336BCFDC088D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "praktika1", "pr1-z1\praktika1.csproj", "{584B964A-8298-448A-A09E-336BCFDC088D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "practicum1", "practicum1", "{6EE7FE49-2AF4-4D83-A31B-9253E933BFFB}"
+	ProjectSection(SolutionItems) = preProject
+		pr1-z1\ypr1.cs = pr1-z1\ypr1.cs
+		pr1-z1\ypr2.cs = pr1-z1\ypr2.cs
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
